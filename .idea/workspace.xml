@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4a8c673-b712-416b-ae3e-e63ce74bda3a" name="Changes" comment="Input,Max and type keyword">
-      <change afterPath="$PROJECT_DIR$/12-06-2024/File1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/Multipleof two number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/Sum of two numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/inputtable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shalini_learning/reversestring.py" afterDir="false" />
+    <list default="true" id="c4a8c673-b712-416b-ae3e-e63ce74bda3a" name="Changes" comment="Files">
+      <change afterPath="$PROJECT_DIR$/12-06-2024/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-06-2024/Forloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-06-2024/Gradecalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-06-2024/Triangleclassifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-06-2024/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-06-2024/leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-06-2024/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shalini_learning/largestnumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shalini_learning/Helloprogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shalini_learning/Helloprogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shalini_learning/Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shalini_learning/Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shalini_learning/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shalini_learning/Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,17 +57,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Forloop.executor": "Run",
+    "Python.Gradecalculator.executor": "Run",
     "Python.Helloprogram.executor": "Run",
     "Python.Input_Max_type.executor": "Run",
     "Python.List.executor": "Run",
+    "Python.Maximumthreenumbers.executor": "Run",
     "Python.Multipleof two number.executor": "Run",
     "Python.Program1.executor": "Run",
     "Python.String.executor": "Run",
     "Python.Sum of two numbers.executor": "Run",
     "Python.Task.executor": "Run",
     "Python.Task2.executor": "Run",
+    "Python.Triangleclassifier.executor": "Run",
+    "Python.factorial.executor": "Run",
     "Python.inputtable.executor": "Run",
+    "Python.largestnumber.executor": "Run",
+    "Python.leapyear.executor": "Run",
     "Python.reversestring.executor": "Run",
+    "Python.while.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -105,12 +113,32 @@
       <option name="project" value="LOCAL" />
       <updated>1717575516213</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Files">
+      <option name="closed" value="true" />
+      <created>1718119588802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718119588802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Input,Max and type keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="Input,Max and type keyword" />
+    <MESSAGE value="Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Shalini_learning/Task.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

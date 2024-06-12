@@ -13,4 +13,8 @@ a= 2
 # ** means power
 print(a**3)
 
-# ^ 
+# ^
+
+a= 10
+b= 4
+print(a^b)
