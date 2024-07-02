@@ -6,3 +6,5 @@ print("hello", "bae", 12, end=" &")
 
 import keyword
 print(keyword.kwlist)
+
+# to comment multi line use "ctrl+/"
